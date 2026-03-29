@@ -91,4 +91,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Your Name
+Akella Ahlad Achintya
